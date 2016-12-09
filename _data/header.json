@@ -1,14 +1,14 @@
 { 
   "heading" : {
-  	"en" : "Hi, I'm Daniel Limberger,",
-  	"de" : "Hallo, ich bin Daniel Limberger," },
+  	"en" : "Hi, I'm Shuo Zhang,",
+  	"de" : "Hallo, ich bin Shuo Zhang," },
 
   "lead" : { 
-  	"en" : "a Berlin based Graphics Systems Engineer, Researcher, and Entrepreneur.",
+  	"en" : "a research geologist in Aramco Global Research Centers - Houston.",
   	"de" : "Ingenieur, Forscher und Unternehmer für computergrafische Systeme." },
 
   "about" : {
-  	"en" : "I'm designing, developing, implementing, and maintaining mostly interactive computer graphics techniques and systems.
+  	"en" : "I conduct research on hydrology coupled with geochemistry, especially in applications of CO2 sequestration and enhanced oil recovery.
   	As a PhD student in the <a href='https://hpi.de/doellner/index.html'>Computer Graphics Systems group</a> at the <a href='https://hpi.de/'>Hasso Plattner Institute</a> I study, teach, supervise, and publish in the fields of massive, multivariate data visualization, human-computer interaction, as well as programming and computer graphics fundamentals.
   	As a co-founder and manager of <a href='https://www.cginternals.com'>CG Internals</a>, I offer graphics engineering related products, services, and solutions to the industry.",
   	"de" : "Ich entwerfe, entwickle, implementiere und warte vorrangig interaktive, computergrafische Verfahren und Systeme.
