@@ -19,33 +19,33 @@
       "en" : "or scan QR code:",
       "de" : "oder QR-Code scannen:" }},
 
-  "email" : "cgdaniel@outlook.com", 
+  "email" : "shuozhang@berkeley.edu", 
 
   "email_label" : {
     "en" : "E-Mail",
     "de" : "E-Mail" },
 
   "alternative_emails" : [ 
-  	"daniel.limberger@hpi.de", 
-  	"limberger@cginternals.com" ],
+  	"zhangshuo19871127@gmail.com", 
+  	"shuo.zhang@aramcoservices.com" ],
 
   "alternative_label" : {
     "en" : "Other",
     "de" : "Alternativ" },
 
   "phone" : { 
-    "en" : "+49 163 568 2818",
-    "de" : "0163 568 2818" },
+    "en" : "+1 510 423 1294",
+    "de" : "+1 510 423 1294" },
 
   "phone_label" : {
     "en" : "Phone",
     "de" : "Telefon" },
 
   "refs" : [ 
-  	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/daniellimberger" },
-  	{ "name" : "GitHub", "href" : "https://github.com/cgcostume" },
-  	{ "name" : "Flickr", "href" : "https://www.flickr.com/photos/131006004@N06/albums" },
-  	{ "name" : "YouTube", "href" : "https://www.youtube.com/user/costumebrother" },
+  	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/shuo-zhang-7a537224?trk=nav_responsive_tab_profile_pic" },
+  	{ "name" : "GitHub", "href" : "https://github.com/zhangs06" },
+  	{ "name" : "Flickr", "href" : "https://www.flickr.com/photos/iamdagezhang" },
+  	{ "name" : "YouTube", "href" : "https://www.youtube.com/user/shuozhang10" },
   	{ "name" : "Vimeo", "href" : "https://vimeo.com/user2011768" },
   	],
 
@@ -53,7 +53,7 @@
     "en" : "More",
     "de" : "Weitere" },
 
-  "formspree" : "cgdaniel@outlook.com",
+  "formspree" : "shuozhang@berkeley.edu",
 
   "form_legend" : {
     "en" : "Drop Me a Line",
@@ -72,7 +72,7 @@
     "de" : "Absenden" },
 
    "submit_info" : {
-   	"en" : "To cgdaniel@outlook.com via <a href='https://formspree.io/'>Formspree</a>.",
-   	"de" : "Via <a href='https://formspree.io/'>Formspree</a> an cgdaniel@outlook.com." },
+   	"en" : "To shuozhang@berkeley.edu via <a href='https://formspree.io/'>Formspree</a>.",
+   	"de" : "Via <a href='https://formspree.io/'>Formspree</a> an shuozhang@berkeley.edu." },
 
 }
