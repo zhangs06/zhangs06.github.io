@@ -5,196 +5,150 @@
 
   "publications" : [ 
 
-    { "key"       : "2012-sky-phenomena",
-      "bibtex"    : "led2012-sky-phenomena.bib",
-      "title"     : "Single-Pass Rendering of Day and Night Sky Phenomena",
-      "date"      : "2012-11-01",
-      "authors"   : [ "Daniel Limberger", "Juri Engel", "Jürgen Döllner" ],
-      "published" : "In Proceedings of the Vision, Modeling, and Visualization Workshop",
+    { "key"       : "zhang2016porosity",
+      "bibtex"    : "zhang2016porosity.bib",
+      "title"     : "Porosity--permeability relationships in modeling salt precipitation during CO2 sequestration: Review of conceptual models and implementation in numerical simulations",
+      "date"      : "2016",
+      "authors"   : [ "Zhang, Shuo", "Liu, Hui-Hai" ],
+      "published" : "International Journal of Greenhouse Gas Control",
       
       "caption"   : {
-        "en" : "This paper presents techniques for astronomical based, real-time rendering of skies as seen from low altitudes on earth, in respect to location, date, and time.
-                The techniques allow for composing an atmosphere with sun, multiple cloud layers, moon, bright stars, and Milky Way, into a holistic sky with unprecedented level of detail and diversity.
-                GPU generated, viewpoint-aligned billboards are used to render stars with approximated color, brightness, and scintillations. 
-                A similar approach is used to synthesize the moon considering lunar phase, earthshine, shading, and lunar eclipses.",
+        "en" : "Previous model studies indicate that injectivity can be impaired by salt precipitation near the injection well during CO2 injection (Pruess and Müller, 2009). These results are largely determined by the relationship between permeability and salt precipitation which is developed by Verma and Pruess (1988). Liu et al. (2013) presents a new relationship for permeability change owing to salt precipitation near a CO2 injection well, which differs from previous relationships in that it considers the fact that the salt precipitation occurs only in pore space occupied by brine during the precipitation process, and in that it is based on well-established relative-permeability relationships for two-phase flow in porous media. This work reviews the conceptual models based on which these porosity–permeability relationships are developed. The Liu et al. (2013) model is implemented in the multi-phase reservoir simulator TOUGH2, and simulation is conducted and compared with results in Pruess and Müller (2009). Results show that the two constitutive relations give opposite conclusions in whether CO2 dry-out will clog the reservoir. In contrast to the conclusion from Pruess and Müller (2009) that permeability will decrease to essentially zero near the injection well, the new simulation predicts much less reduction in permeability. Discussions are given at the end on the evaluation of each relation and relevant experimental evidences.",
         "de" : "In dieser Arbeit werden echtzeitfähige Renderingtechniken zur astronomisch basierten Darstellung von Himmelsphänomenen für beliebige Standorte und Zeitpunkte vorgestellt.
                 Sie erlauben eine Komposition von Sonne, Wolkenschichten, Mond, Sternen sowie der Milchstraße zu einem ganzheitlichen Himmelsabbild mit hohem Detailgrad.
                 GPU generierte, dem Betrachter zugeneigte Billboards werden zum Rendern von Sternen mit korrekter Farbe, Helligkeit und Szintillationen verwendet. 
                 Ähnlich wird der Mond unter Einbeziehung der Mondphase, dem Erdschein, der Beleuchtung sowie Mondfinsternisse synthetisiert." },
 
-      "thumbnail" : "2012-vmv-day-and-night-sky.jpg",
-      "flickr"    : "72157650186586300",
+      "thumbnail" : "kred.jpg",
       "downloads" : [
-        { "href"  : "https://dx.doi.org/10.2312/PE/VMV/VMV12/055-062",
+        { "href"  : "http://dx.doi.org/10.1016/j.ijggc.2016.06.013",
           "desc"  : "DOI"
         },
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAMi1maGtNOV9GTU0/view",
-          "desc"  : "Paper (PDF, 5.7 MiB)"
-        },
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAeEg2NGtKV3NLWk0/view",
-          "desc"  : "Slides (PDF, 3.0 MiB)"
-        },
-        { "href"  : "https://www.youtube.com/watch?v=t8ibsEl0kAI",
-          "desc"  : "Video (YouTube)",
-          "popup" : "youtube"
-        },
-        { "href"  : "https://code.google.com/p/osghimmel/",
-          "desc"  : "Google Code"
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7N1Eta0tOSjFrOW8",
+          "desc"  : "Paper (PDF, 0.92 MiB)"
+        },	
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7dURERzdnLTB1LWM",
+          "desc"  : "Slides (PDF, 4.4 MiB)"
         } ],
     },
-    { "key"       : "2013-web-based-swmaps",
-      "bibtex"    : "lwtd2013-web-based-swmaps.bib",
-      "title"     : "Interactive Software Maps for Web-Based Source Code Analysis",
-      "date"      : "2013-05-01",
-      "authors"   : [ "Daniel Limberger", "Benjamin Wasty", "Jonas Trümper", "Jürgen Döllner" ],
-      "published" : "In Proceedings of the International Web3D Conference",
+    { "key"       : "zhang2016constitutive",
+      "bibtex"    : "zhang2016constitutive.bib",
+      "title"     : "Constitutive Relations for Reactive Transport Modeling: Effects of Chemical Reactions on Multi-phase Flow Properties",
+      "date"      : "2016",
+      "authors"   : [ "Zhang, Shuo", "Liu, Hui-Hai" , "van Dijke, Marinus I. J." , "Geiger, Sebastian" , "Agar, Susan M" ],
+      "published" : "Transport in Porous Media",
       
       "caption"   : {
-        "en" : "Software maps&mdash;linking 2.5D treemaps, software system structure, and performance indicators&mdash;are commonly used to support informed decision making in software-engineering processes.
-                In this paper a web-based rendering system for software maps that achieves both fast client-side page load time and interactive frame rates even with large software maps is presented.
-                The page load time is significantly reduced by efficiently encoding hierarchy and geometry data for the net transport.",
+        "en" : "The relationship between flow properties and chemical reactions is the key to modeling subsurface reactive transport. This study develops closed-form equations to describe the effects of mineral precipitation and dissolution on multi-phase flow properties (capillary pressure and relative permeabilities) of porous media. The model accounts for the fact that precipitation/dissolution only takes place in the water-filled part of pore space. The capillary tube concept was used to connect pore-scale changes to macroscopic hydraulic properties. Precipitation/dissolution induces changes in the pore radii of water-filled pores and consequently in the pore size distribution. The updated pore size distribution is converted back to a new capillary pressure–water saturation relation from which the new relative permeabilities are calculated. Pore network modeling is conducted on a Berea sandstone to validate the new continuum-scale relations. The pore network modeling results are satisfactorily predicted by the new closed-form equations.",
         "de" : "Softwarelagekarten&mdash;als Anwendung von 2.5D Treemaps zur Darstellung von Softwaresystemstrukturen und -metriken&mdash;können zur informationsgestützen Entscheidungsfindung in der Softwareentwicklung verwendet werden.
                 In dieser Arbeit wird ein webbasiertes Renderingsystem für große, massive Softwarelagekarten vorgestellt, welches durch effektive Speicherung und Aufteilung der Hierarchie- und Geometryinformationen clientseitige Ladezeiten verringert und interaktive Bildwiederholraten erreicht." },
 
-      "thumbnail" : "2013-web3d-interactive-software-maps.jpg",
-      "flickr"    : "72157650179270797",
+      "thumbnail" : "PcPcp.jpg",
       "downloads" : [
-        { "href"  : "https://doi.acm.org/10.1145/2466533.2466550",
+        { "href"  : "http://dx.doi.org/10.1007/s11242-016-0744-5",
           "desc"  : "DOI"
         },
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAYTQwM3NlajlRZEE/view",
-          "desc"  : "Paper (PDF, 3.0 MiB)"
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7a1kyTzRhWFh6MXM",
+          "desc"  : "Paper (PDF, 3.5 MiB)"
         },
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAU2ZqbENPN3BFUXc/view",
-          "desc"  : "Slides (PDF, 14.9 MiB)"
-        },
-        { "href"  : "https://www.youtube.com/watch?v=AaHJRVQ3Z1E",
-          "desc"  : "Video (YouTube)",
-          "video" : "youtube"
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7SmRsSF91eGNOTUk",
+          "desc"  : "Poster (PDF, 0.3 MiB)"
         } ],
     },
-    { "key"       : "2014-parameter-painting",
-      "bibtex"    : "ld2014-parameter-painting.bib",
-      "title"     : "Painting Per-Pixel Parametrization for Interactive Image Filtering",
-      "date"      : "2014-08-01",
-      "authors"   : [ "Daniel Limberger", "Jürgen Döllner" ],
-      "published" : "In Expressive Poster Session",
+    { "key"       : "zhang2015co2",
+      "bibtex"    : "zhang2015co2.bib",
+      "title"     : "CO2 mineralization in volcanogenic sandstones: geochemical characterization of the Etchegoin formation, San Joaquin Basin",
+      "date"      : "2015",
+      "authors"   : [ "Zhang, Shuo", "DePaolo, Donald J", "Voltolini, Marco", "Kneafsey, Tim" ],
+      "published" : "Greenhouse Gases: Science and Technology",
       
       "caption"   : {
-        "en" : "This work presents a photo-editing method that enables per-pixel parameter manipulation of image filtering by means of interactive painting.
-                Predefined or custom image filters are exposed to the user, as a parametrizable composition of image operations. 
-                Brushes, as sequences of actions mapping user inputs (in terms of brush shape, flow, pressure, etc.) to arbitrary functions or convolution operators, are used to draw within the parameter space. 
-                It demonstrates how interactive painting can be used to, e.g., locally tweak parametrization and, furthermore, provides a blueprint for an collaborative photo-editing platform.",
+        "en" : "Volcanogenic sandstones are typically rich in volcanic rock fragments that can provide reactive minerals for CO2 mineralization in a scenario of CO2 sequestration. To quantitatively evaluate the extent and time scale of CO2 mineralization in potential reservoir formations, we characterized example high-porosity volcanic sand from the San Joaquin Valley of southern Central California. Samples were collected from the volcanic-rich members of the Etchegoin Formation in the San Joaquin Basin near Coalinga, California. Thin sections made from these samples were examined under petrographic microscope to identify mineral compositions, and then scanning electron microscopy (SEM) and energy dispersive x-ray spectroscopy (EDX) were used to gather quantitative information on mineral abundances, distribution, and reactive surface areas. Porosity and permeability were also measured using core plugs made from outcrop samples. Results show that the Etchegoin volcanic sandstone has a high percentage (10–15%) of reactive minerals (pyroxenes, Fe-Ti spinel and clays), and high reactive surface areas at about 1 m2/kg. Reactive transport modeling is conducted and shows that these reactive minerals could mineralize 92% of injected and capillary-trapped CO2 within 1000 years of injection. Possible effects of heterogeneity on CO2 injection and mineralization are also studied using the reactive transport code TOUGHREACT. Vertical heterogeneity of mineralogy and hydrology increases both CO2 injectivity and mineralization. Available volcanogenic sandstones worldwide like the Etchegoin sandstone are summarized from the literature, with formations from the western USA that have CO2 sequestration potential emphasized.",
         "de" : "Diese Arbeit stellt eine Methode zur Bildbearbeitung vor, welche per-pixel Manipulation von Filterparametern ermöglicht.
                 Vordefinierte oder benutzerdefinierte Bildfilter werden als Komposition parametrisierter Bildoperationen freigelegt.
                 So können Interaktionen mittels Pinselmethapher (Pinselform, Verlauf, Druck, etc.) als Abfolge von Operationen (z.B. Faltungen) im Parameterraum genutzt werden.
                 Es wird gezeigt wie durch Malen interaktiv lokale Korrekturen der Parameterisierungen erfolgen können. 
                 Zudem kann die Arbeit als Blaupause für eine offene, kollaborative Bildverarbebitungs-Platform dienen." },
 
-      "thumbnail" : "2014-expressive-painting-per-pixel-parametrization.jpg",
-      "flickr"    : "72157650124474077",
+      "thumbnail" : "ThinSection.jpg",
       "downloads" : [
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAZm1GSHhKdHNvdjg/view",
-          "desc"  : "Poster (PDF, 19.1 MiB)"
+        { "href"  : "http://dx.doi.org/10.1002/ghg.1508",
+          "desc"  : "DOI"
+        },
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7Y2xNRG5IeVhfNUk",
+          "desc"  : "Paper (PDF, 2.6 MiB)"
         } ],
     },
-    { "key"       : "2015-oilpaint-stylization",
-      "bibtex"    : "slkd2015-oilpaint-stylization.bib",
-      "title"     : "Image Stylization by Oil Paint Filtering Using Color Palettes",
-      "date"      : "2015-06-20",
-      "authors"   : [ "Amir Semmo", "Daniel Limberger", "Jan Eric Kyprianidis", "Jürgen Döllner" ],
-      "published" : "In Proceedings of the Workshop on Computational Aesthetic",
-      "lead_note" : "<a href='http://expressive.graphics/2015'>Best Paper Award</a>",
+    { "key"       : "zhang2015chemical",
+      "bibtex"    : "zhang2015chemical.bib",
+      "title"     : "Chemical affinity and pH effects on chlorite dissolution kinetics under geological CO 2 sequestration related conditions",
+      "date"      : "2015",
+      "authors"   : [ "Zhang, Shuo", "Yang, Li", "DePaolo, Donald J", "Steefel, Carl I" ],
+      "published" : "Chemical Geology",
 
       "caption"   : {
-        "en" : "This paper presents an approach for transforming images into an oil paint look. 
-                A color quantization scheme is proposed that performs feature-aware recolorization using the dominant colors of the input image. 
-                In addition, an approach for real-time computation of paint textures is presented that builds on the smoothed structure adapted to the main feature contours of the quantized image. 
-                The stylization technique leads to homogeneous outputs in the color domain and enables creative control over the visual output, such as color adjustments and per-pixel parametrizations by means of interactive painting.",
+        "en" : "The kinetic dissolution of Flagstaff Hill chlorite (CCa-2 from Clay Minerals Society), (Mg4.55Al1.23Fe0.12)(Al1.04Si2.96)O10(OH)8, was investigated using a well-mixed flow-through reactor at 100 °C, pH values ranging from 3.0 to 7.5, and variable saturation states. The objective was to measure the dependence of chlorite dissolution rate on pH as well as on degree of undersaturation under conditions applicable to geologic carbon storage. A batch experiment was conducted to determine the equilibrium constant of the dissolution reaction at 100 °C for the chlorite mineral phase used in this study. A series of experiments was run at varying CO2 partial pressures (0–60 bars) and different flow rates (0.01–0.25 ml/min). We use our experimental results in conjunction with previously published data to separate the effects of pH and solution saturation state. At constant pH, the chlorite dissolution rate decreases slowly as a function of the Gibbs free energy of reaction (∆Gr), which is a quantitative measure of the degree of undersaturation. The undersaturation required (− ΔGr > 100 kJ/mol) to reach a limiting far-from-equilibrium rate (the “dissolution plateau”) is roughly an order of magnitude larger than expected from transition state theory, but similar to that determined for smectite (− ΔGr > 130 kJ/mol) (Cama et al., 2000). Hence, chlorite dissolution behaves as if the chlorite were close to equilibrium even in solutions that are strongly undersaturated. The chlorite dissolution rate (R) as a function of pH and chemical affinity (ΔGr) at 100 °C can be fit reasonably well with the following expression: The rate law obtained in this study provides a basis for modeling chlorite mineral dissolution over a range of pH and saturation conditions, which is essential in applications such as subsurface CO2 sequestration.",
         "de" : "In dieser Arbeit wird eine Methode zur Umwandlung eines Bildes in ein Ölgemälde vorgestellt. 
                 Dazu wird ein Schema zur Farbquantisierung vorgeschlagen, welches eine Feature-erhaltende Neueinfärbung mittels dominanter Farben des Eingabebildes erlaubt.
                 Zudem wird ein Ansatz zur echtzeit-fähigen Berechnung einer Farb- und Lackstruktur auf Basis von an Featurekonturen ausgerichteten und geglätteter Strukturen diskutiert.
                 Die Methode liefert farblich homogene Ergebnisse und ermöglicht gestalterische Kontrolle über die Ausgabe, z.B. Farbanpassungen oder Per-Pixel Parameterisierung mittels interkativem Malen." },
 
-      "thumbnail" : "2015-oil-paint-stylization-using-color-palettes.jpg",
+      "thumbnail" : "chlorite.jpg",
 
       "downloads" : [
-        { "href"  : "http://dx.doi.org/10.2312/exp.20151188",
+        { "href"  : "http://dx.doi.org/10.1016/j.chemgeo.2015.01.001",
           "desc"  : "DOI"
         },
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAcGdHblRfbmdkcXM/view",
-          "desc"  : "Paper (PDF, 7.5 MiB)"
-        },
-        { "href"  : "https://www.youtube.com/watch?v=T65gbk8Ruk4",
-          "desc"  : "Video (YouTube)",
-          "video" : "youtube"
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7UHJXUWVidGNYTVk",
+          "desc"  : "Paper (PDF, 3.2 MiB)"
         } ],
 
     },
-    { "key"       : "2015-natural-metaphors",
-      "bibtex"    : "wtld2015-natural-metaphors.bib",
-      "title"     : "Natural Phenomena as Metaphors for Visualization of Trend Data in Interactive Software Maps",
-      "date"      : "2015-09-16",
-      "authors"   : [ "Hannes Würfel", "Matthias Trapp", "Daniel Limberger", "Jürgen Döllner" ],
-      "published" : "In Proceedings of Computer Graphics and Visual Computing",
+    { "key"       : "zhang2014reactive",
+      "bibtex"    : "zhang2014reactive.bib",
+      "title"     : "Reactive transport modeling of stable carbon isotope fractionation in a multi-phase multi-component system during carbon sequestration",
+      "date"      : "2014",
+      "authors"   : [ "Zhang, Shuo", "DePaolo, Donald J", "Zheng, Liange", "Mayer, Bernhard" ],
+      "published" : "Energy Procedia",
       
       "caption"   : {
-        "en" : "This work explores the suitability of rendering natural phenomena in Software maps for effective communication of changes as well as trends.
-                Therefore, Unreal Engine 4 is prototypically used to render Software maps and natural phenomena, such as fire, clouds, smoke, rain, rust, or shininess in real-time.
-                Trend data is automatically computed by hierarchically accumulating as well as analyzing the underlying software metrics, and is mapped to the additional visual variables.",
+        "en" : "Carbon stable isotopes can be used in characterization and monitoring of CO2 sequestration sites to track the migration of the CO2 plume and identify leakage sources, and to evaluate the chemical reactions that take place in the CO2-water-rock system. However, there are few tools available to incorporate stable isotope information into flow and transport codes used for CO2 sequestration problems. We present a numerical tool for modeling the transport of stable carbon isotopes in multiphase reactive systems relevant to geologic carbon sequestration. The code is an extension of the reactive transport code TOUGHREACT. The transport module of TOUGHREACT was modified to include separate isotopic species of CO2 gas and dissolved inorganic carbon (CO2, CO3, HCO3,…). Any process of transport or reaction influencing a given carbon species also influences its isotopic ratio. Isotopic fractionation is thus fully integrated within the dynamic system. The chemical module and database have been expanded to include isotopic exchange and fractionation between the carbon species in both gas and aqueous phases. The performance of the code is verified by modeling ideal systems and comparing with theoretical results. Efforts are also made to fit field data from the Pembina CO2 injection project in Canada. We show that the exchange of carbon isotopes between dissolved and gaseous carbon species combined with fluid flow and transport, produce isotopic effects that are significantly different from simple two-component mixing. These effects are important for understanding the isotopic variations observed in field demonstrations.",
         "de" : "Diese Arbeit untersucht inwiefern die Bildsynthese einzelner Naturerscheinungen in Softwarelagekarten als ergänzende visuelle Variablen zur effektiven Kommunikation von Änderungen und Trends geeignet ist.
                 Dabei wird die Unreal Engine 4 prototypisch genutzt Softwarelagekarten als auch Naturerscheinungen wie Feuer, Wolken, Rauch, Regen, Rost, oder Glanz in Echtzeit zu rendern.
                 Die Trenddaten werden aus den zugrundeliegenden Softwaremetriken abgeleitet und auf die zusätzlichen visuellen Variablen abgebildet." },
 
-      "thumbnail" : "2015-natural-metaphors.jpg",
-      "flickr"    : "72157663043933623",     
+      "thumbnail" : "isotope.jpg",
       "downloads" : [
-        { "href"  : "http://dx.doi.org/10.2312/cgvc.20151246",
+        { "href"  : "http://dx.doi.org/10.1016/j.egypro.2014.11.411",
           "desc"  : "DOI"
         },
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAMnBIY0VuaTVkdWc/view",
-          "desc"  : "Paper (PDF, 16.9 MiB)"
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7Tlo3cVBCVFJiaEU",
+          "desc"  : "Paper (PDF, 26.1 MiB)"
         } ],
     },
-    { "key"       : "2016-oilpaint-stylization",
-      "bibtex"    : "slkd2016-oilpaint-stylization.bib",
-      "title"     : "Image Stylization by Interactive Oil Paint Filtering",
-      "date"      : "2016-01-09",
-      "authors"   : [ "Amir Semmo", "Daniel Limberger", "Jan Eric Kyprianidis", "Jürgen Döllner" ],
-      "published" : "Computers & Graphics",
-      "lead_note" : "<a href='http://vcg.isti.cnr.it/cgf/winner.php?year=2016'>CGF Cover Contest 2016 (Runner-up)</a>",
+    { "key"       : "zhang2013mineralization",
+      "bibtex"    : "zhang2013mineralization.bib",
+      "title"     : "Mineralization of carbon dioxide sequestered in volcanogenic sandstone reservoir rocks",
+      "date"      : "2013",
+      "authors"   : [ "Zhang, Shuo", "DePaolo, Donald J", "Xu, Tianfu", "Zheng, Liange" ],
+      "published" : "International Journal of Greenhouse Gas Control",
       
       "caption"   : {
-        "en" : "An interactive system for transforming images into an oil paint look is presented:
-                First, dominant colors from an input image are derived for feature-aware recolorization and quantization to conform with a global color palette. 
-                Afterwards, it employs non-linear filtering based on the smoothed structure adapted to the main feature contours of the quantized image to synthesize a paint texture in real-time.
-                Furthermore, a generalized brush-based painting interface is introduced that operates within parameter spaces to locally adjust the level of abstraction of the filtering effects.",
+        "en" : "Geological storage of carbon dioxide in deep saline formations can decrease the accumulation of CO2 in the atmosphere, and thus slow down global warming. Most CO2 injected into subsurface rock formations is expected to remain for a long time as either a separate supercritical phase or in solution in brine; both forms present the possibility of leakage back to the surface or other environmental impacts. Mineralogical trapping of injected CO2 is more secure but usually thought to be too slow to add significantly to sequestration security. For quartz-rich sandstones (quartzarenite and arkose), only ca. 5% CO2 mineralization is achieved over 1000–10,000 years (Audigane et al., 2007). However, if volcanogenic and other sandstones that have larger amounts of reactive minerals were used for storage, there could be a larger fraction of CO2 mineralized in a shorter time. The limitation is that porosity and permeability tend to decrease with increase of volcanic rock fragments (VRF), which limits the rate at which CO2 can be injected. We evaluate these tradeoffs to assess the feasibility of using volcanogenic sandstone to achieve secure CO2 storage. Using relationships between VRF percent, porosity and permeability from available geological data, the reactive transport code TOUGHREACT was used to model the flow, transport, mineral reactions, changes in fluid chemistry, and the rate and extent of CO2 mineralization over 1000 years during and after CO2 injection into a sandstone reservoir. We use the models specifically to evaluate the expected trade-off between higher reactivity and lower porosity and permeability. A model volcanic fragment mineralogy is used (pyroxene and feldspar mainly for which kinetic data are available) along with conservative estimates for silicate and oxide mineral dissolution kinetics and reactive surface area. Substitution of other more common reactive minerals such as chlorite and amphibole would not significantly change the results. The simulations show that in rocks with 10–20% reactive minerals, as much as 80% CO2 mineralization could occur in 1000 years and still allow sufficient injectivity so that 1 Mt of CO2 could be injected per year per well. The calculated mineralized fraction depends on several factors, most notably the kinetics and reactive surface area of dissolving silicates and the detailed relationship of reactive mineral content to effective permeability and injectivity.",
         "de" : "An interactive system for transforming images into an oil paint look is presented:
                 First, dominant colors from an input image are derived for feature-aware recolorization and quantization to conform with a global color palette. 
                 Afterwards, it employs non-linear filtering based on the smoothed structure adapted to the main feature contours of the quantized image to synthesize a paint texture in real-time.
                 Furthermore, a generalized brush-based painting interface is introduced that operates within parameter spaces to locally adjust the level of abstraction of the filtering effects." },
 
-      "thumbnail" : "2016-interactive-oil-paint-filtering.jpg",
-      "flickr"      : "72157652814171753",
+      "thumbnail" : "result2.jpg",
       "downloads" : [
-        { "href"  : "http://dx.doi.org/10.1016/j.cag.2015.12.001",
+        { "href"  : "http://dx.doi.org/10.1016/j.ijggc.2013.08.001",
           "desc"  : "DOI"
         },
-        { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAaGQtQnotbGtISGM/view",
-          "desc"  : "Paper (PDF, 17.9 MiB)"
+        { "href"  : "https://drive.google.com/open?id=0B_bFBVUDsQG7aGw4MWp5QThSSDQ",
+          "desc"  : "Paper (PDF, 1.7 MiB)"
         } ],
     } ,
-    { "key"       : "2016-multi-frame-sampling",
-      "title"     : "Progressive Rendering using Multi-frame Sampling",
-      "date"      : "2016-04-08",
-      "authors"   : [ "Daniel Limberger", "Karsten Tausche", "Johannes Linke", "Jürgen Döllner" ],
-      "published" : "GPU Pro 7: Advanced Rendering Techniques",
-      
-      "caption"   : {
-        "en" : "This article will be release in April 2016.<br>More details and supplemental material will be provided soon...",
-        "de" : "Dieser Artikel erscheint im April.<br>Weitere Details und ergänzende Materialien folgen..." },
-
-      "thumbnail" : "2016-multi-frame-sampling.jpg",
-    }]
+    ]
 
 }
