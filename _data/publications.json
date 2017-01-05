@@ -20,6 +20,7 @@
                 Ähnlich wird der Mond unter Einbeziehung der Mondphase, dem Erdschein, der Beleuchtung sowie Mondfinsternisse synthetisiert." },
 
       "thumbnail" : "kred.jpg",
+      "flickr"    : "72157678687324046",
       "downloads" : [
         { "href"  : "http://dx.doi.org/10.1016/j.ijggc.2016.06.013",
           "desc"  : "DOI"
@@ -44,6 +45,7 @@
                 In dieser Arbeit wird ein webbasiertes Renderingsystem für große, massive Softwarelagekarten vorgestellt, welches durch effektive Speicherung und Aufteilung der Hierarchie- und Geometryinformationen clientseitige Ladezeiten verringert und interaktive Bildwiederholraten erreicht." },
 
       "thumbnail" : "PcPcp.jpg",
+      "flickr"    : "72157674974103714",      
       "downloads" : [
         { "href"  : "http://dx.doi.org/10.1007/s11242-016-0744-5",
           "desc"  : "DOI"
@@ -71,6 +73,7 @@
                 Zudem kann die Arbeit als Blaupause für eine offene, kollaborative Bildverarbebitungs-Platform dienen." },
 
       "thumbnail" : "ThinSection.jpg",
+      "flickr"    : "72157676868700192",
       "downloads" : [
         { "href"  : "http://dx.doi.org/10.1002/ghg.1508",
           "desc"  : "DOI"
@@ -94,7 +97,7 @@
                 Die Methode liefert farblich homogene Ergebnisse und ermöglicht gestalterische Kontrolle über die Ausgabe, z.B. Farbanpassungen oder Per-Pixel Parameterisierung mittels interkativem Malen." },
 
       "thumbnail" : "chlorite.jpg",
-
+      "flickr"    : "72157676868692492",
       "downloads" : [
         { "href"  : "http://dx.doi.org/10.1016/j.chemgeo.2015.01.001",
           "desc"  : "DOI"
@@ -118,6 +121,7 @@
                 Die Trenddaten werden aus den zugrundeliegenden Softwaremetriken abgeleitet und auf die zusätzlichen visuellen Variablen abgebildet." },
 
       "thumbnail" : "isotope.jpg",
+      "flickr"    : "72157674974047404",
       "downloads" : [
         { "href"  : "http://dx.doi.org/10.1016/j.egypro.2014.11.411",
           "desc"  : "DOI"
@@ -141,6 +145,7 @@
                 Furthermore, a generalized brush-based painting interface is introduced that operates within parameter spaces to locally adjust the level of abstraction of the filtering effects." },
 
       "thumbnail" : "result2.jpg",
+      "flickr"    : "72157675062943913",
       "downloads" : [
         { "href"  : "http://dx.doi.org/10.1016/j.ijggc.2013.08.001",
           "desc"  : "DOI"

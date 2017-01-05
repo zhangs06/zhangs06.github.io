@@ -11,8 +11,9 @@ languages: [ 'en', 'de' ]
 
 google_font_sans_serif: 'Source+Sans+Pro:300'
 
-flickr_user: '131006004@N06'
-flickr_api_key: adb4be93419edab991522b4fa92b7029
+flickr_user: '34398828@N04'
+flickr_api_key: 780efdea9f297a0a24a84acddc8c0b93
+flickr_api_secret: 4d2e3a2cb62bdd71
 
 default_header_img_dimensions: 'width="392" height="549"'
 default_thubmnail_img_dimensions: 'width="768" height="768"'
