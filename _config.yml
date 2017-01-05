@@ -2,10 +2,10 @@
 timezone: Europe/Berlin
 
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'https://cgcostume.github.io' # the base hostname & protocol for your site
+url: 'https://zhangs06.github.io' # the base hostname & protocol for your site
 
-title: 'Daniel Limberger'
-author: 'Daniel Limberger'
+title: 'Shuo Zhang'
+author: 'Shuo Zhang'
 
 languages: [ 'en', 'de' ]
 
