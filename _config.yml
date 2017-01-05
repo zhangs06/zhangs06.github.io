@@ -7,7 +7,7 @@ url: 'https://zhangs06.github.io' # the base hostname & protocol for your site
 title: 'Shuo Zhang'
 author: 'Shuo Zhang'
 
-languages: [ 'en', 'de' ]
+languages: [ 'en', 'cn' ]
 
 google_font_sans_serif: 'Source+Sans+Pro:300'
 
@@ -39,12 +39,12 @@ defaults:
       path: ''
     values:
       lang: en
-      description: 'Personal website of Daniel Limberger, a Berlin based Graphics Systems Engineer, Researcher, and Entrepreneur. It enlists his publications, projects, talks, teachings, and contact information.'
+      description: 'Personal website of Shuo Zhang, a Research Geologist in Aramco Global Research Centers - Houston. It enlists his publications, conferences, teachings, and contact information.'
   - scope:
-      path: 'de'
+      path: 'cn'
     values:
       lang: de
-      description: 'Persönliche Webseite von Daniel Limberger, Ingeniuer für grafische System, Forscher und Unternehmer. Die Webseite listet Veröffentlichungen, Projekte, Vorträge, Lehrtätigkeiten und Kontaktdaten.'
+      description: '沙特阿美国家石油公司休斯敦研究中心地质研究员张硕的个人网站.包括他发表的文章，会议，授课，以及联系信息'
   - scope:
       path: 'en'
     values:

@@ -1,48 +1,28 @@
 { 
   "heading" : {
-    "en" : "Talks",
-    "de" : "Vorträge" },
+    "en" : "Conferences",
+    "de" : "Vortrge" },
 
   "talks" : [
 
-    { "date"      : "2016-07-23 00:00:00",
-      "title"     : "Dynamic 2.5D Treemaps using Declarative 3D on the Web",
-      "location"  : "ACM SIGGRAPH Web3D Conference 2016, Anaheim, CA, USA",
+    { "date"      : "2016-06-06 00:00:00",
+      "title"     : "Salt Precipitation During CO2 Injection and Changes in Reservoir Porosity and Permeability.",
+      "location"  : "The 14th Carbon Capture, Utilization & Storage Conference, 2016.",
     },
-    { "date"      : "2015-05-07 00:00:00",
-      "title"     : "Monitoring Software Quality Aspects using Software Maps",
-      "location"  : "SAPPHIRE NOW 2015, Orlando, FL, USA",
+    { "date"      : "2014-06-25",
+      "title"     : "Reactive Transport Modeling of Stable Carbon Isotope Fractionation during Carbon Sequestration.",
+      "location"  : "The Goldschmidt Geochemistry Conference, 2014.",
     },
-    { "date"      : "2013-11-20 00:00:00",
-      "title"     : "Rendering of Day and Night Sky Phenomena in Interactive 3D Geovirtual Environments",
-      "location"  : "DGKF & DGPF Workshop \"3D-Stadmodelle\", Bonn, Germany",
-      "downloads" :
-      [ { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAZ0ZjcXpQT0s1Yzg/view",
-          "desc"  : "Slides (PDF, 4.5 MiB)"
-        } ] 
+    { "date"      : "2013-12-20",
+      "title"     : "Controls on CO2 Mineralization in Volcanogenic Sandstone Reservoir Rocks.",
+      "location"  : "AGU Fall Meeting 2013.", 
     },
-    { "date"      : "2013-06-20 00:00:00",
-      "title"     : "Interactive Software Maps for Web-Based Source Code Analysis",
-      "location"  : "Web3D2013, San Sebastian, Spain",
-      "downloads" : [
-      { "href"    : "https://drive.google.com/file/d/0B9sUajZRijJAU2ZqbENPN3BFUXc/view",
-        "desc"    : "Slides (PDF, 14.9 MiB)"
-      } ]
+    { "date"      : "2012-06-05",
+      "title"     : "Chlorite Dissolution Rates in scCO2-Saturated Saline Water at 100 oC and 100 Bar.",
+      "location"  : "The Goldschmidt Geochemistry Conference, 2012.",
     },
-    { "date"      : "2013-06-20 00:00:00",
-      "title"     : "Annotating 3D Content in Interactive, Virtual Worlds",
-      "location"  : "Web3D2013, San Sebastian, Spain"
-    },
-    { "date"      : "2012-11-12 00:00:00",
-      "title"     : "Single-Pass Rendering of Day and Night Sky Phenomena",
-      "location"  : "VMV2012, Magdeburg, Germany",
-      "downloads" : [
-      { "href"  : "https://drive.google.com/file/d/0B9sUajZRijJAeEg2NGtKV3NLWk0/view",
-        "desc"  : "Slides (PDF, 3.0 MiB)"
-      } ]
-    },
-    { "date"      : "2010-06-08 00:00:00",
-      "title"     : "Semantic-Based, Non-Photorealisitc Visualization of 3D Geovirtual Environments",
-      "location"  : "58. Deutscher Kartographentag, Berlin, Germany"
-    } ]
+    { "date"      : "2011-05-29",
+      "title"     : "Reactive Transport Modeling of Carbon Sequestration in Volcanogenic Sandstone Formations.",
+      "location"  : "The Goldschmidt Geochemistry Conference, 2011"
+    }]
 }
