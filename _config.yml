@@ -43,7 +43,7 @@ defaults:
   - scope:
       path: 'cn'
     values:
-      lang: de
+      lang: cn
       description: '沙特阿美国家石油公司休斯敦研究中心地质研究员张硕的个人网站.包括他发表的文章，会议，授课，以及联系信息'
   - scope:
       path: 'en'
