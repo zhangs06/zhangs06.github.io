@@ -14,7 +14,7 @@
       "cn" : "vCard" },
     "download_file" : {
       "en" : "Download file",
-      "cn" : "下载文件" },
+      "cn" : "下载电子名片" },
     "scan_qr_code" : {
       "en" : "or scan QR code:",
       "cn" : "扫描二维码:" }},
@@ -72,6 +72,6 @@
 
    "submit_info" : {
    	"en" : "To shuozhang@berkeley.edu via <a href='https://formspree.io/'>Formspree</a>.",
-   	"cn" : "通过 <a href='https://formspree.io/'>Formspree</a> an shuozhang@berkeley.edu." },
+   	"cn" : "通过 <a href='https://formspree.io/'>Formspree</a> 发送到 shuozhang@berkeley.edu." },
 
 }
