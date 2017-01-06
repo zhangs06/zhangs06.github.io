@@ -1,7 +1,7 @@
 { 
   "heading" : {
     "en" : "Contact",
-  	"cn" : "ÁªÏµ·½Ê½" },
+  	"cn" : "联系方式" },
 
   "vcard" : {
     "file" : "/vcard.vcf",
