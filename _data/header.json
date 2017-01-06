@@ -5,14 +5,14 @@
 
   "lead" : { 
   	"en" : "a Research Geologist in Aramco Global Research Centers - Houston.",
-  	"cn" : "是沙特阿美国家石油公司在休斯敦研发中心的一名地质研究员." },
+  	"cn" : "现在在沙特阿美国家石油公司在休斯敦研发中心任地质研究员." },
 
   "about" : {
   	"en" : "I'm conducting research on hydrology coupled with geochemistry, specifically in the application of CO2 geological storage and carbonate diagenesis.
   	As a PhD student in the <a href='http://eps.berkeley.edu/'>Earth and Planetary Science Department at UC Berkeley</a> and the <a href='http://esd1.lbl.gov/research/facilities/ncgc/'>Center for Nanoscale Control of Geological CO2</a>, I  conducted research on CO2 mineralization in volcanogeni sandstone reservoirs.
   	As a research geologist in <a href='http://www.aramcoservices.com/Who-We-Are/Our-Satellite-Research-Centers.aspx'>Aramco</a>, I develop algorithms to model carbonate diagenesis and porosity evolution.",
   	"cn" : "我主要研究地下水文和地球化学的耦合过程，应用在二氧化碳地质封存以及碳酸盐成岩过程等
-  	我博士就读于 <a href='http://eps.berkeley.edu'>加州伯克利大学地球与空间科学系</a> 和 <a href='https://esd1.lbl.gov/research/facilities/ncgc/'>劳伦斯伯克利国家实验室的二氧化碳地质封存纳米技术中心</a>，主要研究二氧化碳在火山碎屑岩中的矿化过程.
+  	我博士就读于 <a href='http://eps.berkeley.edu'>加州伯克利大学地球与空间科学系</a> 和 <a href='https://esd1.lbl.gov/research/facilities/ncgc/'>劳伦斯伯克利国家实验室的二氧化碳地质封存纳米技术中心</a>，主要研究二氧化碳在火山碎屑岩中的矿化过程
   	现在在<a href='http://www.aramcoservices.com/Who-We-Are/Our-Satellite-Research-Centers.aspx'>阿美石油公司</a> 我主要研究如何开发模拟碳酸盐成岩过程和孔隙度发展过程的概念模型和算法" },
 
   "picture" : "ZhangPortrait.jpg"
