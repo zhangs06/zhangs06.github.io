@@ -17,13 +17,13 @@
       "cn" : "下载文件" },
     "scan_qr_code" : {
       "en" : "or scan QR code:",
-      "cn" : "oder QR-Code scannen:" }},
+      "cn" : "扫描二维码:" }},
 
   "email" : "shuozhang@berkeley.edu", 
 
   "email_label" : {
     "en" : "E-Mail",
-    "cn" : "E-Mail" },
+    "cn" : "电子邮件" },
 
   "alternative_emails" : [ 
   	"zhangshuo19871127@gmail.com", 
@@ -31,7 +31,7 @@
 
   "alternative_label" : {
     "en" : "Other",
-    "cn" : "Alternativ" },
+    "cn" : "其它" },
 
   "phone" : { 
     "en" : "+1 510 423 1294",
@@ -39,7 +39,7 @@
 
   "phone_label" : {
     "en" : "Phone",
-    "cn" : "Telefon" },
+    "cn" : "电话" },
 
   "refs" : [ 
   	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/shuo-zhang-7a537224?trk=nav_responsive_tab_profile_pic" },
@@ -50,28 +50,28 @@
 
   "refs_label" : {
     "en" : "More",
-    "cn" : "Weitere" },
+    "cn" : "更多" },
 
   "formspree" : "shuozhang@berkeley.edu",
 
   "form_legend" : {
     "en" : "Drop Me a Line",
-    "cn" : "Sende mir eine Nachricht" },
+    "cn" : "发送邮件" },
 
   "name_label" : {
     "en" : "Name",
-    "cn" : "Name" },
+    "cn" : "姓名" },
 
   "message_label" : {
     "en" : "Message",
-    "cn" : "Nachricht" },
+    "cn" : "消息" },
 
   "submit_button" : {
     "en" : "Submit",
-    "cn" : "Absenden" },
+    "cn" : "提交" },
 
    "submit_info" : {
    	"en" : "To shuozhang@berkeley.edu via <a href='https://formspree.io/'>Formspree</a>.",
-   	"cn" : "Via <a href='https://formspree.io/'>Formspree</a> an shuozhang@berkeley.edu." },
+   	"cn" : "通过 <a href='https://formspree.io/'>Formspree</a> an shuozhang@berkeley.edu." },
 
 }
