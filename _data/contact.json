@@ -1,7 +1,7 @@
 { 
   "heading" : {
     "en" : "Contact",
-  	"cn" : "联系方式" },
+  	"cn" : "脕陋脧碌路陆脢陆" },
 
   "vcard" : {
     "file" : "/vcard.vcf",
@@ -14,7 +14,7 @@
       "de" : "vCard" },
     "download_file" : {
       "en" : "Download file",
-      "de" : "Datei herunterladen" },
+      "de" : "涓嬭浇鏂囦欢" },
     "scan_qr_code" : {
       "en" : "or scan QR code:",
       "de" : "oder QR-Code scannen:" }},
