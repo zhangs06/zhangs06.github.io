@@ -8,7 +8,7 @@
     { "key"       : "zhang2016porosity",
       "bibtex"    : "zhang2016porosity.bib",
       "title"     : "Porosity--permeability relationships in modeling salt precipitation during CO2 sequestration: Review of conceptual models and implementation in numerical simulations",
-      "date"      : "2016-07-14",
+      "date"      : "2016",
       "authors"   : [ "Zhang, Shuo", "Liu, Hui-Hai" ],
       "published" : "International Journal of Greenhouse Gas Control",
       
@@ -35,7 +35,7 @@
     { "key"       : "zhang2016constitutive",
       "bibtex"    : "zhang2016constitutive.bib",
       "title"     : "Constitutive Relations for Reactive Transport Modeling: Effects of Chemical Reactions on Multi-phase Flow Properties",
-      "date"      : "2016-06-13",
+      "date"      : "2016",
       "authors"   : [ "Zhang, Shuo", "Liu, Hui-Hai" , "van Dijke, Marinus I. J." , "Geiger, Sebastian" , "Agar, Susan M" ],
       "published" : "Transport in Porous Media",
       
@@ -60,7 +60,7 @@
     { "key"       : "zhang2015co2",
       "bibtex"    : "zhang2015co2.bib",
       "title"     : "CO2 mineralization in volcanogenic sandstones: geochemical characterization of the Etchegoin formation, San Joaquin Basin",
-      "date"      : "2015-10-26",
+      "date"      : "2015",
       "authors"   : [ "Zhang, Shuo", "DePaolo, Donald J", "Voltolini, Marco", "Kneafsey, Tim" ],
       "published" : "Greenhouse Gases: Science and Technology",
       
@@ -85,12 +85,12 @@
     { "key"       : "zhang2015chemical",
       "bibtex"    : "zhang2015chemical.bib",
       "title"     : "Chemical affinity and pH effects on chlorite dissolution kinetics under geological CO 2 sequestration related conditions",
-      "date"      : "2015-01-14",
+      "date"      : "2015",
       "authors"   : [ "Zhang, Shuo", "Yang, Li", "DePaolo, Donald J", "Steefel, Carl I" ],
       "published" : "Chemical Geology",
 
       "caption"   : {
-        "en" : "The kinetic dissolution of Flagstaff Hill chlorite was investigated using a well-mixed flow-through reactor at 100 °C, pH values ranging from 3.0 to 7.5, and variable saturation states. The objective was to measure the dependence of chlorite dissolution rate on pH as well as on degree of undersaturation under conditions applicable to geologic carbon storage. A batch experiment was conducted to determine the equilibrium constant of the dissolution reaction at 100 °C for the chlorite mineral phase used in this study. A series of experiments was run at varying CO2 partial pressures (0–60 bars) and different flow rates (0.01–0.25 ml/min). We use our experimental results in conjunction with previously published data to separate the effects of pH and solution saturation state. At constant pH, the chlorite dissolution rate decreases slowly as a function of the Gibbs free energy of reaction (∆Gr), which is a quantitative measure of the degree of undersaturation. The undersaturation required (− ΔGr > 100 kJ/mol) to reach a limiting far-from-equilibrium rate (the “dissolution plateau”) is roughly an order of magnitude larger than expected from transition state theory, but similar to that determined for smectite (− ΔGr > 130 kJ/mol) (Cama et al., 2000). Hence, chlorite dissolution behaves as if the chlorite were close to equilibrium even in solutions that are strongly undersaturated. The chlorite dissolution rate (R) can be fit reasonably well as a function of pH and chemical affinity (ΔGr) at 100 °C. The rate law obtained in this study provides a basis for modeling chlorite mineral dissolution over a range of pH and saturation conditions, which is essential in applications such as subsurface CO2 sequestration.",
+        "en" : "The kinetic dissolution of Flagstaff Hill chlorite (CCa-2 from Clay Minerals Society), (Mg4.55Al1.23Fe0.12)(Al1.04Si2.96)O10(OH)8, was investigated using a well-mixed flow-through reactor at 100 °C, pH values ranging from 3.0 to 7.5, and variable saturation states. The objective was to measure the dependence of chlorite dissolution rate on pH as well as on degree of undersaturation under conditions applicable to geologic carbon storage. A batch experiment was conducted to determine the equilibrium constant of the dissolution reaction at 100 °C for the chlorite mineral phase used in this study. A series of experiments was run at varying CO2 partial pressures (0–60 bars) and different flow rates (0.01–0.25 ml/min). We use our experimental results in conjunction with previously published data to separate the effects of pH and solution saturation state. At constant pH, the chlorite dissolution rate decreases slowly as a function of the Gibbs free energy of reaction (∆Gr), which is a quantitative measure of the degree of undersaturation. The undersaturation required (− ΔGr > 100 kJ/mol) to reach a limiting far-from-equilibrium rate (the “dissolution plateau”) is roughly an order of magnitude larger than expected from transition state theory, but similar to that determined for smectite (− ΔGr > 130 kJ/mol) (Cama et al., 2000). Hence, chlorite dissolution behaves as if the chlorite were close to equilibrium even in solutions that are strongly undersaturated. The chlorite dissolution rate (R) as a function of pH and chemical affinity (ΔGr) at 100 °C can be fit reasonably well with the following expression: The rate law obtained in this study provides a basis for modeling chlorite mineral dissolution over a range of pH and saturation conditions, which is essential in applications such as subsurface CO2 sequestration.",
         "de" : "In dieser Arbeit wird eine Methode zur Umwandlung eines Bildes in ein Ölgemälde vorgestellt. 
                 Dazu wird ein Schema zur Farbquantisierung vorgeschlagen, welches eine Feature-erhaltende Neueinfärbung mittels dominanter Farben des Eingabebildes erlaubt.
                 Zudem wird ein Ansatz zur echtzeit-fähigen Berechnung einer Farb- und Lackstruktur auf Basis von an Featurekonturen ausgerichteten und geglätteter Strukturen diskutiert.
@@ -110,7 +110,7 @@
     { "key"       : "zhang2014reactive",
       "bibtex"    : "zhang2014reactive.bib",
       "title"     : "Reactive transport modeling of stable carbon isotope fractionation in a multi-phase multi-component system during carbon sequestration",
-      "date"      : "2014-06-06",
+      "date"      : "2014",
       "authors"   : [ "Zhang, Shuo", "DePaolo, Donald J", "Zheng, Liange", "Mayer, Bernhard" ],
       "published" : "Energy Procedia",
       
@@ -133,7 +133,7 @@
     { "key"       : "zhang2013mineralization",
       "bibtex"    : "zhang2013mineralization.bib",
       "title"     : "Mineralization of carbon dioxide sequestered in volcanogenic sandstone reservoir rocks",
-      "date"      : "2013-09-04",
+      "date"      : "2013",
       "authors"   : [ "Zhang, Shuo", "DePaolo, Donald J", "Xu, Tianfu", "Zheng, Liange" ],
       "published" : "International Journal of Greenhouse Gas Control",
       
