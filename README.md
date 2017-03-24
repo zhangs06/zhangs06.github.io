@@ -1,5 +1,5 @@
 
-Portfolio optimized for researchers and those who strive for a minimal, file-based "content management" (**Datafolio**).
+Portfolio for researchers and those who strive for a minimal, file-based "content management" (**Datafolio**).
 The complete site's content is based on a json/xml file per section (e.g., ```contact.json```, ```projects.json```, ```publications.json```, ```talks.json```, and ```teaching.json```) as well as the pages ```_config.yml``` information. 
 
 [![Build Status](https://travis-ci.org/cgcostume/cgcostume.github.io.svg?branch=master)](https://travis-ci.org/cgcostume/cgcostume.github.io)
